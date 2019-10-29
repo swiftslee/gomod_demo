@@ -1,5 +1,5 @@
 package swift
 
 func Getmodversion() string {
-	return "this is v2.0.5"
+	return "this is v2.0.6"
 }
